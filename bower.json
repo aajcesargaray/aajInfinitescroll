@@ -6,7 +6,7 @@
   "description": "\"Infinite scroll for angular js\"",
   "main": "src/aaj-infinite-scroll.directive.min.js",
   "license": "MIT",
-  "homepage": "http://aajcesargaray.github.io.",
+  "homepage": "https://aajcesargaray.github.io/aajInfinitescroll/.",
   "ignore": [
     "**/.*",
     "node_modules",

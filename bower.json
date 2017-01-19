@@ -1,0 +1,17 @@
+{
+  "name": "aajInfiniteScroll",
+  "authors": [
+    "AAJ Tecnologies"
+  ],
+  "description": "\"Infinite scroll for angular js\"",
+  "main": "src/aaj-infinite-scroll.directive.min.js",
+  "license": "MIT",
+  "homepage": "http://aajcesargaray.github.io.",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
